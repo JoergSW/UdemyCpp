@@ -39,7 +39,7 @@ int main()
         }
     }
 
-    std::cout << "Exercise 1:\n";
+    std::cout << "Exercise_1:\n";
     printMatrix(matrix);
 
     // Exercise 2
